@@ -1,5 +1,5 @@
 # UW-UPNEXT
-!(https://github.com/Torido-Mir/UW-UPNEXT/blob/main/upnext.jpg.jpg)
+![UPNEXT](https://github.com/Torido-Mir/UW-UPNEXT/blob/main/upnext.jpg.jpg)
 - UPNEXT stands for Upcoming Network & Experience Xplorer Tool
 - It helps first-year students at the University of Waterloo discover social events from over 120+ student-run clubs and organizations that align with their personal and professional interests
 
